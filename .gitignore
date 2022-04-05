@@ -1,0 +1,12 @@
+# build script
+repo
+build
+
+# jekyll
+jekyll/_site
+jekyll/Gemfile.lock
+jekyll/.sass-cache
+jekyll/.jekyll-metadata
+jekyll/.DS_Store
+jekyll/.jekyll-cache
+jekyll/*.gem
