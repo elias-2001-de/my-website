@@ -8,30 +8,22 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Open Gal',  url: 'open-gal'}
-# - {name: 'Learning Resources', url: 'resources'}
-# - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-# - {name: 'Contact',            url: 'contact'}
+- {name: 'Game', url: 'game'}
+- {name: 'Tool', url: 'tool'}
+- {name: 'About', url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
-# - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-# - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 - {icon: 'envelope', link:   'maierelias13@gmail.com'}
-- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+- {icon: 'github',     link: 'https://github.com/eeli1'}
+- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/elias-maier-4b8b75219/'}
+# - {icon: 'rss-square', link: 'feed.xml'}
 
 # Customize site text
 pagination:
   next_page: 'next'
   previous_page: 'previous'
 
-
-site:
-  hide_post_date: false
 
 # sharing_button_prompt: 'Feel free to share!'
 

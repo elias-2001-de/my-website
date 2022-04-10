@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/index.html
 ---
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A passionate software developer from Germany 🇩🇪</h3>
@@ -14,7 +14,7 @@ permalink: /about
 
 - I am interested in **ml, os, games, web and cyber security**
 
-- All of my projects are available at [https://eeli1.github.io/](https://eeli1.github.io/)
+- All of my projects are available at [/](/)
 
 - How to reach me **maierelias13@gmai.com**
 
@@ -81,3 +81,4 @@ permalink: /about
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=eeli1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+in.github.io/gh-profile-readme-generator/ -->
