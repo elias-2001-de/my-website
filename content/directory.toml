@@ -1,0 +1,37 @@
+
+[follow]
+en = "Follow on "
+de = "Folgen auf "
+
+[langs]
+en = "English"
+de = "Deutsch"
+
+[writeMe]
+en = "Write Me an "
+de = "Schreib mir eine "
+
+[nav]
+about = { en = "About", de = "Über mich" }
+speaking = { en = "Speaking", de = "Vorträge" }
+uses = { en = "Uses", de = "Werkzeuge" }
+projects = { en = "Projects", de = "Projekte" }
+articles = { en = "Articles", de = "Artikel" }
+
+[newsletter]
+title = { en = "Stay up to date", de = "Bleib auf dem Laufenden" }
+description = { en = "Get notified when I publish something new, and unsubscribe at any time.", de = "Erhalte eine Benachrichtigung, wenn ich etwas Neues veröffentliche, und melde dich jederzeit wieder ab." }
+btn = { en = "Join", de = "Abonnieren" }
+
+[resume]
+title = { en = "Work", de = "Arbeit" }
+download = { en = "Download CV", de = "Lebenslauf herunterladen" }
+
+[404]
+title = { en = "Page not found", de = "Seite nicht gefunden" }
+description = { en = "Sorry, we couldn't find the page you're looking for.", de = "Sorry, wir konnten die gesuchte Seite nicht finden." }
+btn = { en = "Go back home", de = "Zurück zur Startseite" }
+
+[readArticle]
+en = "Read article"
+de = "Artikel lesen"

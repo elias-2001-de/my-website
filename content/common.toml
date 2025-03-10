@@ -1,0 +1,18 @@
+
+avatar = "/images/avatar.jpg"
+languages = ["en", "de"]
+
+[socials]
+github = "https://github.com/eelias13"
+email = "maierelias13@gmail.com"
+linkedin = "https://www.linkedin.com/in/elias-maier-4b8b75219/"
+instagram = ""
+x = ""
+
+[active_sites]
+about = true
+speaking = false
+uses = false
+projects = true
+articles = true
+

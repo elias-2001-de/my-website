@@ -1,0 +1,123 @@
+[title]
+en = "Software I use, gadgets I love, and other things I recommend."
+de = "Software, die ich nutze, Gadgets, die ich liebe, und andere Dinge, die ich empfehle."
+
+[intro]
+en = "I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I'm being productive when I'm really just procrastinating. Here's a big list of all of my favorite stuff."
+de = "Ich werde oft gefragt, welche Dinge ich benutze, um Software zu entwickeln, produktiv zu bleiben oder mir einzureden, dass ich produktiv bin, während ich in Wirklichkeit prokrastiniere. Hier ist eine große Liste meiner Lieblingsdinge."
+
+[[tools_section]]
+title = { en = "Workstation", de = "Arbeitsplatz" }
+
+[[tools_section.tools]]
+title = { en = "16 MacBook Pro, M1 Max, 64GB RAM (2021)", de = "16 MacBook Pro, M1 Max, 64GB RAM (2021)" }
+content.en = "I was using an Intel-based 16 MacBook Pro prior to this and the difference is night and day. I've never heard the fans turn on a single time, even under the incredibly heavy loads I put it through with our various launch simulations."
+content.de = "Ich habe vorher ein Intel-basiertes 16 MacBook Pro genutzt, und der Unterschied ist wie Tag und Nacht. Ich habe die Lüfter noch nie gehört, selbst unter extremen Lasten, die ich mit unseren verschiedenen Startsimulationen darauf ausgeführt habe."
+
+[[tools_section.tools]]
+title = { en = "Apple Pro Display XDR (Standard Glass)", de = "Apple Pro Display XDR (Standardglas)" }
+content.en = "The only display on the market if you want something HiDPI and bigger than 27”. When you're working at planetary scale, every pixel you can get counts."
+content.de = "Das einzige Display auf dem Markt, wenn man etwas mit HiDPI und größer als 27” möchte. Wenn man in planetaren Maßstäben arbeitet, zählt jeder Pixel."
+
+
+[[tools_section]]
+title.en = "Development tools"
+title.de = "Entwicklungstools"
+
+[[tools_section.tools]]
+title = { en = "Sublime Text 4", de = "Sublime Text 4" }
+content.en = [
+    "I don't care if it's missing all of the fancy IDE features",
+    "everyone else relies on, Sublime Text is still the best text",
+    "editor ever made.",
+]
+content.de = [
+    "Mir ist egal, ob es nicht alle fancy IDE-Funktionen hat,",
+    "auf die sich alle anderen verlassen. Sublime Text ist immer noch",
+    "der beste Texteditor, der je gemacht wurde.",
+]
+
+[[tools_section.tools]]
+title = { en = "iTerm2", de = "iTerm2" }
+content.en = [
+    "I'm honestly not even sure what features I get with this",
+    "that aren't just part of the macOS Terminal but it's what I",
+    "use.",
+]
+content.de = [
+    "Ehrlich gesagt bin ich mir nicht einmal sicher, welche Funktionen",
+    "dies hat, die nicht einfach Teil des macOS-Terminals sind, aber",
+    "es ist das, was ich benutze.",
+]
+
+[[tools_section]]
+title = { en = "Design", de = "Design" }
+
+[[tools_section.tools]]
+title = { en = "Figma", de = "Figma" }
+content.en = [
+    "We started using Figma as just a design tool but now it's",
+    "become our virtual whiteboard for the entire company. Never",
+    "would have expected the collaboration features to be the",
+    "real hook.",
+]
+content.de = [
+    "Wir haben Figma anfangs nur als Design-Tool genutzt, aber jetzt ist es",
+    "unser virtuelles Whiteboard für das gesamte Unternehmen geworden.",
+    "Ich hätte nie gedacht, dass die Kollaborationsfunktionen der wahre",
+    "Haken sein würden.",
+]
+
+[[tools_section]]
+title = { en = "Productivity", de = "Produktivität" }
+
+[[tools_section.tools]]
+title = { en = "Alfred", de = "Alfred" }
+content.en = [
+    "It's not the newest kid on the block but it's still the",
+    "fastest. The Sublime Text of the application launcher world.",
+]
+content.de = [
+    "Es ist nicht das neueste Tool auf dem Markt, aber immer noch das",
+    "schnellste. Der Sublime Text unter den Anwendungsstartern.",
+]
+
+[[tools_section.tools]]
+title = { en = "Reflect", de = "Reflect" }
+content.en = [
+    "Using a daily notes system instead of trying to keep things",
+    "organized by topics has been super powerful for me. And with",
+    "Reflect, it's still easy for me to keep all of that stuff",
+    "discoverable by topic even though all of my writing happens",
+    "in the daily note.",
+]
+content.de = [
+    "Ein tägliches Notizsystem zu nutzen, anstatt alles nach Themen",
+    "zu organisieren, war für mich extrem hilfreich. Und mit Reflect",
+    "ist es trotzdem einfach, alles nach Themen durchsuchbar zu halten,",
+    "auch wenn ich alles in der täglichen Notiz schreibe.",
+]
+
+[[tools_section.tools]]
+title = { en = "SavvyCal", de = "SavvyCal" }
+content.en = [
+    "Great tool for scheduling meetings while protecting my",
+    "calendar and making sure I still have lots of time for deep",
+    "work during the week.",
+]
+content.de = [
+    "Ein großartiges Tool, um Meetings zu planen und gleichzeitig",
+    "meinen Kalender zu schützen, damit ich genug Zeit für tiefes",
+    "Arbeiten während der Woche habe.",
+]
+
+[[tools_section.tools]]
+title = { en = "Focus", de = "Focus" }
+content.en = [
+    "Simple tool for blocking distracting websites when I need to",
+    "just do the work and get some momentum going.",
+]
+content.de = [
+    "Ein einfaches Tool, um ablenkende Websites zu blockieren, wenn ich",
+    "mich konzentrieren und in den Arbeitsfluss kommen muss.",
+]

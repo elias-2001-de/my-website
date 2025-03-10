@@ -1,0 +1,105 @@
+name = "Elias Maier"
+
+[birth]
+date = "03.07.2001"
+place = "Konstanz"
+
+[address]
+street = "**** **** **"
+postcode = "*****"
+city = "****"
+
+[contact]
+phone = "*** ***** ***"
+email = "maierelias13@gmail.com"
+
+[[experience]]
+company = { en = "Storz Medical AG", de = "Storz Medical" }
+logo_small = "/images/logos/storzmedical_o.svg"
+location = { en = "Switzerland", de = "Schweiz" }
+role = { en = "Intern (full-time)", de = "Praktikant (Vollzeit)" }
+duration = { from = { year = 2024, month = 4 }, to = { year = 2024, month = 9 } }
+description.de = [
+    "Entwicklung eines Stereo-Kamerasystems zur präzisen Erfassung von Markern im Sub-Millimeterbereich.",
+]
+description.en = []
+
+[[experience]]
+company = { en = "Studiswork", de = "Studiswork GmbH" }
+logo_small = "/images/logos/stuies_work_sw.svg"
+location = { en = "Germany", de = "Deutschland" }
+role = { en = "Working Student", de = "Werkstudent" }
+duration = { from = { year = 2023, month = 8 }, to = { year = 2024, month = 3 } }
+description.de = [
+    "Konzeption und Umsetzung der Website-Architektur sowie Einrichtung und Verwaltung des Servers.",
+]
+description.en = []
+
+[[experience]]
+company = { en = "University Konstanz", de = "Universität Konstanz" }
+logo_small = "/images/logos/uni_kn_default.png"
+location = { en = "Germany", de = "Deutschland" }
+role = { en = "Student Assistant", de = "Studentische Hilfskraft" }
+duration = { from = { year = 2022, month = 4 }, to = { year = 2023, month = 9 } }
+description.de = [
+    "Lehrstuhl für Datenvisualisierung: Entwicklung einer HTTP-Anbindung für eine C++-Bibliothek.",
+    "Lehrstuhl für HCI: Implementierung eines Chatbots zur automatisierten Verwaltung von Excel-Listen für die Geräteverwaltung.",
+]
+description.en = []
+
+[[education]]
+institution = { en = "University Konstanz", de = "Universität Konstanz" }
+degree = { en = "B.Sc. Computer Science", de = "B.Sc. Informatik" }
+location = { en = "Konstanz", de = "Konstanz" }
+duration = { from = { year = 2021, month = 10 }, to = { year = 2025, month = 9 } }
+description.de = [
+    "Aktuell mache ich meinen Bachelor am Lehrstuhl Cyber-Physical Systems mit Schwerpunkt in Swarm Robotics.",
+]
+description.en = []
+
+[[education]]
+institution = { en = "Zeppelin Trade School", de = "Zeppelin-Gewerbeschule" }
+location = { en = "Konstanz", de = "Konstanz" }
+degree = { en = "High School Diploma", de = "Abitur" }
+duration = { from = { year = 2019, month = 9 }, to = { year = 2021, month = 7 } }
+description.de = [
+    "Dort habe ich mein Abitur mit Schwerpunkt in Informatik absolviert.",
+]
+description.en = []
+
+[[projects]]
+name = { en = "OpenGAL", de = "OpenGAL" }
+description = { en = "", de = "OpenGAL ist eine Hardwarebeschreibungssprache für programmierbare Logik. Ich habe das Projekt auf GitHub hochgeladen: https://github.com/eelias13/open-gal" }
+
+
+[[skills]]
+category = { en = "Programming Languages", de = "Programmiersprachen" }
+skills = ["Rust", "TypeScript", "Python", "Java", "C++"]
+
+[[skills]]
+category = { en = "Web Development", de = "Webentwicklung" }
+skills = ["Node.js", "WASM", "Express", "Svelte"]
+
+[[skills]]
+category = { en = "Databases", de = "Datenbanken" }
+skills = ["PostgreSQL", "SQLite"]
+
+[[skills]]
+category = { en = "Networking", de = "Netzwerke" }
+skills = ["Docker", "Nginx", "Linux"]
+
+[[skills]]
+category = { en = "Image Processing", de = "Bildverarbeitung" }
+skills = ["OpenCV", "Numpy"]
+
+[[languages]]
+language = { en = "German", de = "Deutsch" }
+level = { en = "native", de = "Muttersprache" }
+
+[[languages]]
+language = { en = "English", de = "Englisch" }
+level = { en = "fluent", de = "Fließend" }
+
+[[languages]]
+language = { en = "Russian and Spanish", de = "Russisch und Spanisch" }
+level = { en = "basic", de = "Grundkenntnisse" }

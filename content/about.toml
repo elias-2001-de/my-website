@@ -1,0 +1,66 @@
+
+image = "/images/portrait.jpg"
+
+[title]
+en = "I'm Elias Maier. I live in Konstanz, where I build software at the intersection of hardware and systems programming."
+de = "Ich bin Elias Maier. Ich lebe in Konstanz und entwickle Software an der Schnittstelle zwischen Hardware und Systemprogrammierung."
+
+[content]
+en = [
+    [
+        "I've been fascinated by technology and programming since my early years. ",
+        "My journey began at Zeppelin-Gewerbeschule, where I specialized in computer science, ",
+        "learning C, Assembler, SQL, and Java while gaining a solid understanding of software engineering concepts.",
+    ],
+
+    [
+        "During my studies at the University of Konstanz, I deepened my expertise in ",
+        "Cyber-Physical Systems, focusing on Swarm Robotics. ",
+        "This field combines my passion for distributed computing and real-world applications, ",
+        "pushing me to explore innovative ways of developing autonomous systems.",
+    ],
+
+    [
+        "I've had the opportunity to work on diverse projects, from web development to hardware-related programming. ",
+        "At Storz Medical AG, I developed a stereo camera system for precise sub-millimeter marker tracking. ",
+        "As a working student at Studiswork, I designed and managed the architecture of a web platform, ",
+        "while at the University of Konstanz, I contributed to an HTTP interface for a C++ library and ",
+        "a chatbot for automated device management.",
+    ],
+
+    [
+        "Currently, I'm focused on system programming, embedded development, and WebAssembly. ",
+        "One of my notable open-source projects is OpenGAL, a hardware description language for programmable logic. ",
+        "I'm always looking for challenging problems to solve, whether in distributed systems, networking, or embedded software. ",
+        "Through my work, I aim to build efficient, scalable, and maintainable software that bridges the gap between hardware and software.",
+    ],
+]
+de = [
+    [
+        "Ich habe mich schon früh für Technologie und Programmierung begeistert. ",
+        "Meine Reise begann an der Zeppelin-Gewerbeschule, wo ich Informatik als Schwerpunkt wählte ",
+        "und dabei C, Assembler, SQL und Java lernte sowie fundierte Kenntnisse in Softwareentwicklung erlangte.",
+    ],
+
+    [
+        "Während meines Studiums an der Universität Konstanz vertiefte ich mein Wissen in ",
+        "Cyber-Physical Systems mit einem Fokus auf Schwarmrobotik. ",
+        "Dieses Gebiet vereint meine Leidenschaft für verteiltes Rechnen und reale Anwendungen, ",
+        "was mich dazu antreibt, innovative Ansätze für autonome Systeme zu erforschen.",
+    ],
+
+    [
+        "Ich habe an verschiedenen Projekten gearbeitet, von Webentwicklung bis hin zu hardwarenaher Programmierung. ",
+        "Bei Storz Medical AG entwickelte ich ein Stereo-Kamerasystem zur präzisen Erfassung von Markern im Sub-Millimeterbereich. ",
+        "Als Werkstudent bei Studiswork konzipierte und verwaltete ich die Architektur einer Webplattform, ",
+        "während ich an der Universität Konstanz an einer HTTP-Schnittstelle für eine C++-Bibliothek ",
+        "und einem Chatbot zur automatisierten Geräteverwaltung mitarbeitete.",
+    ],
+
+    [
+        "Derzeit konzentriere ich mich auf Systemprogrammierung, Embedded-Entwicklung und WebAssembly. ",
+        "Eines meiner bemerkenswerten Open-Source-Projekte ist OpenGAL, eine Hardwarebeschreibungssprache für programmierbare Logik. ",
+        "Ich bin stets auf der Suche nach anspruchsvollen Herausforderungen – sei es in verteilten Systemen, Netzwerken oder Embedded-Software. ",
+        "Mit meiner Arbeit möchte ich effiziente, skalierbare und wartbare Software entwickeln, die die Brücke zwischen Hardware und Software schlägt.",
+    ],
+]

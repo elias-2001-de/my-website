@@ -1,0 +1,40 @@
+images = [
+    "/images/photos/image-1.jpg",
+    "/images/photos/image-2.jpg",
+    "/images/photos/image-3.jpg",
+    "/images/photos/image-4.jpg",
+    "/images/photos/image-5.jpg",
+]
+
+technologies = []
+
+[title]
+en = "Full-Stack developer from Germany"
+de = "Full-Stack-Entwickler aus Deutschland"
+
+[description]
+en = [
+    "Hi, I'm Elias a full-stack developer and computer science student from Konstanz, Germany.",
+    "I'm currently working on my bachelor's thesis in Swarm Robotics and have experience in software ",
+    "engineering and web development. Outside of coding, I enjoy hiking, free diving, and swimming.",
+]
+
+de = [
+    "Hi, ich bin Elias  ein Full-Stack-Entwickler und Informatikstudent aus Konstanz, Deutschland. ",
+    "Derzeit arbeite ich an meiner Bachelorarbeit im Bereich Schwarmrobotik und habe Erfahrung in ",
+    "Softwareentwicklung und Webentwicklung. Auserhalb des Programmierens begeistern mich Wandern, ",
+    "Freitauchen und Schwimmen. ",
+]
+
+
+[active_field]
+technologies = false
+resume = true
+call_to_action = true
+newsletter = false
+photos = true
+
+[call_to_action]
+title = { en = "Check out my latest project", de = "Schau dir mein neuestes Projekt an" }
+description = { en = "Check out this hardware description language I built for GALs", de = "Schau dir diese Hardware-Beschreibungssprache an, die ich für GALs entwickelt habe" }
+btn = { link = "/projects", text = { en = "Go to project", de = "Zum Projekt" } }

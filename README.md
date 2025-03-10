@@ -1,9 +1,18 @@
-## this repository is for building my website
+# My Website
 
-run the python script `python3 script.py` to build a static website in the `build` diretory 
+this is the content repo for my personal [website](https://eelias13.github.io/) 
 
-then go in that directory `cd build` and then start a simple webserver e.g. `python3 -m http.server`
+I use the template I build [astro-spotlight](https://github.com/eelias13/astro-spotlight)
 
-or just run the `./build.sh` and then go to [`http://localhost:8000/`](http://localhost:8000/)
+## build and publish
 
-if you want to host the website just copy the content of the `build` directory to the webserver 
+```bash
+pip install toml
+./clean.sh
+```
+
+```bash
+python3 build.py 
+cd website
+git push
+```

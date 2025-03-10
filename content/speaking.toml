@@ -1,0 +1,58 @@
+
+[title]
+en = "I've spoken at events all around the world and been interviewed for many podcasts."
+de = ""
+
+[intro]
+en = """One of my favorite ways to share my ideas is live on stage, 
+        where there's so much more communication bandwidth than thereis in 
+        writing, and I love podcast interviews because they give me the opportunity 
+        to answer questions instead of just present my opinions."""
+de = ""
+
+[speaking_section]
+title = { en = "Conferences", de = "Konferenzen" }
+
+[[speaking_section.appearance]]
+href = "#"
+title = { en = "In space, no one can watch you stream — until now", de = "Im Weltraum kann niemand dich streamen sehen - bis jetzt" }
+description.en = "A technical deep-dive into HelioStream, the real-time streaming library I wrote for transmitting live video back to Earth."
+description.de = "Ein technischer Deep Dive in HelioStream, die Echtzeit-Streaming-Bibliothek, die ich für die Übertragung von Live-Videos zur Erde entwickelt habe."
+event = { en = "SysConf 2021", de = "SysConf 2021" }
+cta = { en = "Watch video", de = "Video ansehen" }
+
+[[speaking_section.appearance]]
+href = "#"
+title = { en = "Lessons learned from our first product recall", de = "Lektionen aus unserem ersten Produktrückruf" }
+description.en = "They say that if you're not embarrassed by your first version, you're doing it wrong. Well, when you're selling DIY space shuttle kits it turns out it's a bit more complicated."
+description.de = "Man sagt, wenn du dich für deine erste Version nicht schämst, machst du es falsch. Nun, wenn du DIY-Raumfähren-Kits verkaufst, stellt sich heraus, dass es etwas komplizierter ist."
+event = { en = "Business of Startups 2020", de = "Business of Startups 2020" }
+cta = { en = "Watch video", de = "Video ansehen" }
+
+[podcasts]
+title.en = "Podcasts"
+title.de = "Podcasts"
+
+[[podcasts.appearance]]
+href = "#"
+title = { en = "Using design as a competitive advantage", de = "Design als Wettbewerbsvorteil nutzen" }
+description.en = "How we used world-class visual design to attract a great team, win over customers, and get more press for Planetaria."
+description.de = "Wie wir erstklassiges visuelles Design genutzt haben, um ein großartiges Team anzuziehen, Kunden zu gewinnen und mehr Presse für Planetaria zu bekommen."
+event = { en = "Encoding Design, July 2022", de = "Encoding Design, Juli 2022" }
+cta = { en = "Listen to podcast", de = "Podcast anhören" }
+
+[[podcasts.appearance]]
+href = "#"
+title = { en = "Bootstrapping an aerospace company to $17M ARR", de = "Ein Luft- und Raumfahrtunternehmen mit $17M ARR bootstrappen" }
+description.en = "The story of how we built one of the most promising space startups in the world without taking any capital from investors."
+description.de = "Die Geschichte, wie wir eines der vielversprechendsten Raumfahrt-Startups der Welt aufgebaut haben, ohne Kapital von Investoren anzunehmen."
+event = { en = "The Escape Velocity Show, March 2022", de = "The Escape Velocity Show, März 2022" }
+cta = { en = "Listen to podcast", de = "Podcast anhören" }
+
+[[podcasts.appearance]]
+href = "#"
+title = { en = "Programming your company operating system", de = "Das Betriebssystem deines Unternehmens programmieren" }
+description.en = "On the importance of creating systems and processes for running your business so that everyone on the team knows how to make the right decision no matter the situation."
+description.de = "Über die Bedeutung der Erstellung von Systemen und Prozessen für dein Unternehmen, damit jeder im Team weiß, wie man in jeder Situation die richtige Entscheidung trifft."
+event = { en = "How They Work Radio, September 2021", de = "How They Work Radio, September 2021" }
+cta = { en = "Listen to podcast", de = "Podcast anhören" }
