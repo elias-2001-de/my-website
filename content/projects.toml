@@ -1,45 +1,51 @@
 
 [title]
-en = "Things I've made trying to put my dent in the universe."
-de = ""
+en = "Things I've made from Compilers to Web Apps."
+de = "Meine Projekte von Compilern zu Webanwendungen."
+
 
 [intro]
 en = [
-    "I've worked on tons of little projects over the years but these are ",
-    "the ones that I'm most proud of. Many of them are open-source, so if you see ",
-    "something that piques your interest, check out the code and contribute if you ",
-    "have ideas for how it can be improved.",
+    "I have worked on various projects, ranging from ",
+    "compilers to web applications, with a strong interest ",
+    "in low-level programming and the web. Some projects were developed ",
+    "on my own, while others were collaborative efforts. I enjoy exploring the potential ",
+    "of WebAssembly. These projects are interactive and can be tried directly in the browser, with no downloads required.",
 ]
-de = ""
+de = [
+    "Ich habe an verschiedenen Projekten gearbeitet, die von Compilern bis hin zu Web apps reichen, ",
+    "wobei ich ein starkes Interesse an Low-Level-Programmierung und dem Web habe. ",
+    "Einige Projekte habe ich selbst entwickelt, an anderen habe ich mitgearbeitet. ",
+    "Es macht mir Spaß, das Potenzial von WebAssembly zu erforschen. ",
+    "Diese Projekte sind interaktiv und können direkt im Browser ausprobiert werden, ohne dass Downloads erforderlich sind.",
+]
 
 [[projects]]
+description = { en = "An app for Mainau garden Island with features like ticket booking and user chat.", de = "Eine App für die Insel Mainau mit Funktionen wie Ticketbuchung und Nutzer-Chat." }
+name = { en = "Island Explorer", de = "Insel Exporer" }
+link = { href = "island-explorer", label = "island-explorer" }
+logo = "/images/logos/Mainau_logo.svg"
+repo = "https://github.com/eelias13/island-explorer"
 
-name = { en = "Planetaria", de = "" }
-description = { en = "Creating technology to empower civilians to explore space on their own terms.", de = "" }
-link = { href = "http://planetaria.tech", label = "planetaria.tech" }
-logo = "/images/logos/planetaria.svg"
+
 [[projects]]
+name = { en = "Oberon0c", de = "Oberon0c" }
+description = { en = "An Oberon-0 compiler that runs in the browser using WASM", de = "Ein Oberon-0-Compiler, der im Browser mit WASM läuft." }
+link = { href = "oberon0c", label = "oberon0c" }
+logo = "/images/logos/Oberon.png"
+repo = "https://github.com/eelias13/oberon0c"
 
-
-name = { en = "Animaginary", de = "" }
-description = { en = "High performance web animation library, hand-written in optimized WASM.", de = "" }
-link = { href = "#", label = "github.com" }
-logo = "/images/logos/animaginary.svg"
 [[projects]]
+description = { en = "A hardware description language (HDL) designed for Generic Array Logic (GAL) chips.", de = "Eine Hardware-Beschreibungssprache (HDL) für Generic-Array-Logic (GAL) Chips." }
+name = { en = "Open-gal", de = "Open-gal" }
+link = { href = "open-gal", label = "open-gal" }
+logo = "/images/logos/microchip.png"
+repo = "https://github.com/eelias13/open-gal"
 
-name = { en = "HelioStream", de = "" }
-description = { en = "Real-time video streaming library, optimized for interstellar transmission.", de = "" }
-link = { href = "#", label = "github.com" }
-logo = "/images/logos/helio-stream.svg"
+
 [[projects]]
-
-name = { en = "cosmOS", de = "" }
-description = { en = "The operating system that powers our Planetaria space shuttles.", de = "" }
-link = { href = "#", label = "github.com" }
-logo = "/images/logos/cosmos.svg"
-[[projects]]
-
-name = { en = "OpenShuttle", de = "" }
-description = { en = "The schematics for the first rocket I designed that successfully made it to orbit.", de = "" }
-link = { href = "#", label = "github.com" }
-logo = "/images/logos/open-shuttle.svg"
+description = { en = "compares Boolean functions and shows their truth tables.", de = "vergleicht Boolesche Funktionen und zeigt die Wahrheitstabelle." }
+name = { en = "Boolean Function Checker", de = "Boolean Function Checker " }
+link = { href = "func-checker", label = "func-checker" }
+logo = "/images/logos/table.png"
+repo = "https://github.com/eelias13/func-checker"

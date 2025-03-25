@@ -2,65 +2,70 @@
 image = "/images/portrait.jpg"
 
 [title]
-en = "I'm Elias Maier. I live in Konstanz, where I build software at the intersection of hardware and systems programming."
-de = "Ich bin Elias Maier. Ich lebe in Konstanz und entwickle Software an der Schnittstelle zwischen Hardware und Systemprogrammierung."
+en = "My Journey in Tech"
+de = "Entwicklung von Systemen Mein Profil als Softwareentwickler"
 
 [content]
 en = [
     [
-        "I've been fascinated by technology and programming since my early years. ",
-        "My journey began at Zeppelin-Gewerbeschule, where I specialized in computer science, ",
-        "learning C, Assembler, SQL, and Java while gaining a solid understanding of software engineering concepts.",
+        "Hi, I'm Elias Maier, a software developer based in Konstanz, Germany. I specialize in systems programming and web development, ",
+        "combining both through WebAssembly. My interest in technology began at an early age, and over the years, I have worked on various ",
+        "interesting projects, including complex APIs, Compilers, stereo cameras, and robot swarms.",
     ],
-
     [
-        "During my studies at the University of Konstanz, I deepened my expertise in ",
-        "Cyber-Physical Systems, focusing on Swarm Robotics. ",
-        "This field combines my passion for distributed computing and real-world applications, ",
-        "pushing me to explore innovative ways of developing autonomous systems.",
+        "My programming journey started in secondary school when I was first introduced to Delphi ",
+        "in a programming course. This ignited my passion and led me to attend a specialized high school ",
+        "focused on informatics. I learned C and Assembly there and even co-developed my own hardware ",
+        "description language, EasyGAL, as a school project. After graduating, I began studying Computer ",
+        "Science at the University of Konstanz, where I am completing my bachelor's degree. My thesis focuses on ",
+        "classifying robot swarm behaviors using autoencoders and analyzing large-scale simulations of autonomous robots.",
     ],
-
     [
-        "I've had the opportunity to work on diverse projects, from web development to hardware-related programming. ",
-        "At Storz Medical AG, I developed a stereo camera system for precise sub-millimeter marker tracking. ",
-        "As a working student at Studiswork, I designed and managed the architecture of a web platform, ",
-        "while at the University of Konstanz, I contributed to an HTTP interface for a C++ library and ",
-        "a chatbot for automated device management.",
-    ],
 
-    [
-        "Currently, I'm focused on system programming, embedded development, and WebAssembly. ",
-        "One of my notable open-source projects is OpenGAL, a hardware description language for programmable logic. ",
-        "I'm always looking for challenging problems to solve, whether in distributed systems, networking, or embedded software. ",
-        "Through my work, I aim to build efficient, scalable, and maintainable software that bridges the gap between hardware and software.",
+        "In addition to my studies, I have gained practical experience through various professional roles. ",
+        "During a six-month internship at Storz Medical, I developed a prototype for a stereo camera tracking system ",
+        "for medical applications, focusing on software architecture and real-time data processing. Before that, I worked ",
+        "at Studiswork. In this startup, I was responsible for the backend infrastructure, integrating Express.js with a Svelte ",
+        "frontend and developing a user authentication and worker management system from scratch. After my internship, I joined ",
+        "Okworx, a company specializing in environmental data processing, where I contributed to backend development and system architecture.",
     ],
 ]
+
 de = [
     [
-        "Ich habe mich schon früh für Technologie und Programmierung begeistert. ",
-        "Meine Reise begann an der Zeppelin-Gewerbeschule, wo ich Informatik als Schwerpunkt wählte ",
-        "und dabei C, Assembler, SQL und Java lernte sowie fundierte Kenntnisse in Softwareentwicklung erlangte.",
+        "Hallo, ich bin Elias Maier, Softwareentwickler aus Konstanz, Deutschland. ",
+        "Mein Schwerpunkt liegt auf der Systemprogrammierung und Webentwicklung,ich kombirire ",
+        "beide bereiche durch WebAssembly. Schon früh entdeckte ich meine Begeisterung für Informatik ",
+        "und habe seither an vielseitigen Projekten gearbeitet von komplexen APIs über Compiler ",
+        "bis hin zu Stereokameras und Roboterschwärmen.",
+    ],
+    [
+        "Meine ersten Programmiererfahrungen sammelte ich in der Realschule durch einen freiwilligen Kurs, ",
+        "der mein Interesse an Informatik weckte. Anschließend besuchte ich ein Technisches Gymnasium, ",
+        "wo ich neben Softwarearchitektur und UML-Diagrammen auch hardwarenahe Programmierung mit ",
+        "C und Assembler erlernte. Gemeinsam mit einem Mitschüler entwickelte ich als Schulprojekt ",
+        "die Hardware-Beschreibungssprache EasyGAL. Nach dem Abitur begann ich mein Informatikstudium an ",
+        "der Universität Konstanz, wo ich derzeit meinen Bachelor abschließe. In meiner Abschlussarbeit beschäftige ",
+        "ich mich mit der Klassifizierung des Verhaltens von Roboterschwärmen mittels Autoencodern sowie der ",
+        "Analyse großer Simulationen autonomer Roboter.",
+    ],
+    [
+
+        "Neben dem Studium konnte ich durch verschiedene Nebenjobs praktische Erfahrung sammeln. ",
+        "Mein erster Job war als Werkstudent an der Universität Konstanz, wo ich vor allem mit der ",
+        "Entwicklung von APIs betraut war. Danach wurde ich von Studiswork, einem Startup, beauftragt, ",
+        "die Firmenwebsite zu entwickeln. Dort war ich für die Backend-Infrastruktur verantwortlich, ",
+        "integrierte Express.js mit einem Svelte-Frontend und entwickelte ein Authentifizierungs- sowie ein ",
+        "Mitarbeiterverwaltungssystem von Grund auf. Während eines sechsmonatigen Praktikums bei Storz Medical ",
+        "arbeitete ich an einem Prototyp für ein Stereo-Kamera-Tracking-System. Nach dem Praktikum wechselte ",
+        "ich zu Okworx, einem Unternehmen, das sich auf die Verarbeitung von Umweltdaten spezialisiert hat, ",
+        "wo ich an der Backend-Entwicklung und der Systemarchitektur mitwirkte.",
+    ],
+    [
+
+        "Diese Erfahrungen haben meine Fähigkeiten sowohl in der Softwareentwicklung als ",
+        "auch in der Systemarchitektur geschärft und mich gelehrt, komplexe technische ",
+        "Herausforderungen effizient zu lösen.",
     ],
 
-    [
-        "Während meines Studiums an der Universität Konstanz vertiefte ich mein Wissen in ",
-        "Cyber-Physical Systems mit einem Fokus auf Schwarmrobotik. ",
-        "Dieses Gebiet vereint meine Leidenschaft für verteiltes Rechnen und reale Anwendungen, ",
-        "was mich dazu antreibt, innovative Ansätze für autonome Systeme zu erforschen.",
-    ],
-
-    [
-        "Ich habe an verschiedenen Projekten gearbeitet, von Webentwicklung bis hin zu hardwarenaher Programmierung. ",
-        "Bei Storz Medical AG entwickelte ich ein Stereo-Kamerasystem zur präzisen Erfassung von Markern im Sub-Millimeterbereich. ",
-        "Als Werkstudent bei Studiswork konzipierte und verwaltete ich die Architektur einer Webplattform, ",
-        "während ich an der Universität Konstanz an einer HTTP-Schnittstelle für eine C++-Bibliothek ",
-        "und einem Chatbot zur automatisierten Geräteverwaltung mitarbeitete.",
-    ],
-
-    [
-        "Derzeit konzentriere ich mich auf Systemprogrammierung, Embedded-Entwicklung und WebAssembly. ",
-        "Eines meiner bemerkenswerten Open-Source-Projekte ist OpenGAL, eine Hardwarebeschreibungssprache für programmierbare Logik. ",
-        "Ich bin stets auf der Suche nach anspruchsvollen Herausforderungen – sei es in verteilten Systemen, Netzwerken oder Embedded-Software. ",
-        "Mit meiner Arbeit möchte ich effiziente, skalierbare und wartbare Software entwickeln, die die Brücke zwischen Hardware und Software schlägt.",
-    ],
 ]

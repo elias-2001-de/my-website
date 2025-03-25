@@ -6,13 +6,26 @@ I use the template I build [astro-spotlight](https://github.com/eelias13/astro-s
 
 ## build and publish
 
-```bash
-pip install toml
-./clean.sh
-```
+
+you need to have [git](https://git-scm.com/), [curl](https://curl.se/) and [docker](https://www.docker.com/) installed on your system and If you use private repos than you also have to setup your git ssh keys
+
+
+then you can build the website 
 
 ```bash
-python3 build.py 
+./build
+```
+
+then you can try it locally 
+
+```bash
+cd website
+python3 -m http.server
+```
+
+and publish it to github
+
+```bash
 cd website
 git push
 ```
