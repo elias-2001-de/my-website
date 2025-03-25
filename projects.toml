@@ -1,12 +1,13 @@
+# https://github.com/eelias13/jonah
 git_base = "https://github.com/eelias13/"
 
 [[projects]]
-git_rel = "open-gal"
+git_rel = "oberon0c"
 build_file = "jonah_editor.toml"
 out_path = "en/projects/"
 
 [[projects]]
-git_rel = "oberon0c"
+git_rel = "open-gal"
 build_file = "jonah_editor.toml"
 out_path = "en/projects/"
 

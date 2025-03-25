@@ -6,6 +6,8 @@ images = [
     "/images/photos/image-5.jpg",
 ]
 
+cv_download = "cv.pdf"
+
 technologies = []
 
 [title]
