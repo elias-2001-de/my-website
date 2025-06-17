@@ -1,3 +1,3 @@
-# https://github.com/eelias13/jonah
+# https://github.com/elias-2001-de/jonah
 docker = "./Dockerfile"
 exports = [{ path = "/app/build/src/content", name = "src/content" }]

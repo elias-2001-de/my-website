@@ -1,6 +1,7 @@
 
 avatar = "/images/avatar.jpg"
 languages = ["en", "de"]
+tailwind_base_col = "blue"
 
 [socials]
 github = "https://github.com/eelias13"

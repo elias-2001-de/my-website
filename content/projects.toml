@@ -23,29 +23,29 @@ de = [
 [[projects]]
 description = { en = "An app for Mainau garden Island with features like ticket booking and user chat.", de = "Eine App für die Insel Mainau mit Funktionen wie Ticketbuchung und Nutzer-Chat." }
 name = { en = "Island Explorer", de = "Insel Exporer" }
-link = { href = "island-explorer", label = "island-explorer" }
+link = "island-explorer"
 logo = "/images/logos/Mainau_logo.svg"
-repo = "https://github.com/eelias13/island-explorer"
+repo = "https://github.com/elias-2001-de/island-explorer"
 
 
 [[projects]]
 name = { en = "Oberon0c", de = "Oberon0c" }
 description = { en = "An Oberon-0 compiler that runs in the browser using WASM", de = "Ein Oberon-0-Compiler, der im Browser mit WASM läuft." }
-link = { href = "oberon0c", label = "oberon0c" }
+link = "oberon0c"
 logo = "/images/logos/Oberon.png"
-repo = "https://github.com/eelias13/oberon0c"
+repo = "https://github.com/elias-2001-de/oberon0c"
 
 [[projects]]
 description = { en = "A hardware description language (HDL) designed for Generic Array Logic (GAL) chips.", de = "Eine Hardware-Beschreibungssprache (HDL) für Generic-Array-Logic (GAL) Chips." }
 name = { en = "Open-gal", de = "Open-gal" }
-link = { href = "open-gal", label = "open-gal" }
+link = "open-gal"
 logo = "/images/logos/microchip.png"
-repo = "https://github.com/eelias13/open-gal"
+repo = "https://github.com/elias-2001-de/open-gal"
 
 
 [[projects]]
 description = { en = "compares Boolean functions and shows their truth tables.", de = "vergleicht Boolesche Funktionen und zeigt die Wahrheitstabelle." }
 name = { en = "Boolean Function Checker", de = "Boolean Function Checker " }
-link = { href = "func-checker", label = "func-checker" }
+link = "func-checker"
 logo = "/images/logos/table.png"
-repo = "https://github.com/eelias13/func-checker"
+repo = "https://github.com/elias-2001-de/func-checker"
