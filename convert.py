@@ -3,14 +3,13 @@ import toml
 import shutil
 import os
 
-toml_files = ["about","articles", "common", "directory", "index", "projects", "resume", "speaking",  "uses"]
-content = "./build/src/content"
+toml_files = ["about","articles", "common", "directory", "index", "projects", "resume", "speaking", "tutorials", "uses", "work"]
+content = "./build/template/src/content"
    
 if __name__ == "__main__":
     if os.path.exists(content):
         shutil.rmtree(content) 
     os.makedirs(content)
-    shutil.copytree("./content/articles", f"{content}/articles", dirs_exist_ok=True) 
 
     for f in toml_files:
         try:

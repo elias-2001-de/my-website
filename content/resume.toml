@@ -13,10 +13,22 @@ city = "****"
 phone = "*** ***** ***"
 email = "maierelias13@gmail.com"
 
+
 [[experience]]
-company = { en = "Storz Medical AG", de = "Storz Medical" }
+company = { en = "Okworx", de = "Okworx" }
+logo_small = "/images/logos/ok_logo_2016.svg"
+location = { en = "Konstanz", de = "Konstanz" }
+role = { en = "Working Student", de = "Werkstudent" }
+duration = { from = { year = 2024, month = 9 }, to = { year = 2025, month = 9 } }
+description.de = [
+    "Entwicklung eines Stereo-Kamerasystems zur präzisen Erfassung von Markern im Sub-Millimeterbereich.",
+]
+description.en = []
+
+[[experience]]
+company = { en = "Storz Medical AG", de = "Storz Medical AG" }
 logo_small = "/images/logos/storzmedical_o.svg"
-location = { en = "Switzerland", de = "Schweiz" }
+location = { en = "Switzerland", de = "Tägerwilen" }
 role = { en = "Intern (full-time)", de = "Praktikant (Vollzeit)" }
 duration = { from = { year = 2024, month = 4 }, to = { year = 2024, month = 9 } }
 description.de = [
@@ -27,7 +39,7 @@ description.en = []
 [[experience]]
 company = { en = "Studiswork", de = "Studiswork GmbH" }
 logo_small = "/images/logos/stuies_work_sw.svg"
-location = { en = "Germany", de = "Deutschland" }
+location = { en = "Konstanz", de = "Konstanz" }
 role = { en = "Working Student", de = "Werkstudent" }
 duration = { from = { year = 2023, month = 8 }, to = { year = 2024, month = 3 } }
 description.de = [
@@ -35,17 +47,17 @@ description.de = [
 ]
 description.en = []
 
-[[experience]]
-company = { en = "University Konstanz", de = "Universität Konstanz" }
-logo_small = "/images/logos/uni_kn_default.png"
-location = { en = "Germany", de = "Deutschland" }
-role = { en = "Student Assistant", de = "Studentische Hilfskraft" }
-duration = { from = { year = 2022, month = 4 }, to = { year = 2023, month = 9 } }
-description.de = [
-    "Lehrstuhl für Datenvisualisierung: Entwicklung einer HTTP-Anbindung für eine C++-Bibliothek.",
-    "Lehrstuhl für HCI: Implementierung eines Chatbots zur automatisierten Verwaltung von Excel-Listen für die Geräteverwaltung.",
-]
-description.en = []
+# [[experience]]
+# company = { en = "University Konstanz", de = "Universität Konstanz" }
+# logo_small = "/images/logos/uni_kn_default.png"
+# location = { en = "Konstanz", de = "Konstanz" }
+# role = { en = "Student Assistant", de = "Studentische Hilfskraft" }
+# duration = { from = { year = 2022, month = 4 }, to = { year = 2023, month = 9 } }
+# description.de = [
+#     "Lehrstuhl für Datenvisualisierung: Entwicklung einer HTTP-Anbindung für eine C++-Bibliothek.",
+#     "Lehrstuhl für HCI: Implementierung eines Chatbots zur automatisierten Verwaltung von Excel-Listen für die Geräteverwaltung.",
+# ]
+# description.en = []
 
 [[education]]
 institution = { en = "University Konstanz", de = "Universität Konstanz" }

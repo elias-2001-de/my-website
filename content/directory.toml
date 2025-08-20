@@ -17,6 +17,8 @@ speaking = { en = "Speaking", de = "Vorträge" }
 uses = { en = "Uses", de = "Werkzeuge" }
 projects = { en = "Projects", de = "Projekte" }
 articles = { en = "Articles", de = "Artikel" }
+tutorials = { en = "Tutorials", de = "Tutorial" }
+work = { en = "Work", de = "Arbeit" }
 
 [newsletter]
 title = { en = "Stay up to date", de = "Bleib auf dem Laufenden" }

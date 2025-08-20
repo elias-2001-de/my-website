@@ -1,4 +1,4 @@
-curl -L -o jonah -H "User-Agent: Mozilla/5.0" https://github.com/elias-2001-de/jonah/releases/download/v0.1.5/jonah
+curl -L -o jonah -H "User-Agent: Mozilla/5.0" https://github.com/elias-2001-de/jonah/releases/download/v0.1.6/jonah
 chmod +x jonah
 
 mkdir -p build
@@ -12,7 +12,12 @@ rm -r template/src/content
 cd ..
 ./jonah project jonah_build.toml build/template
 
+cd build
+git clone https://github.com/elias-2001-de/articles  --depth 1
+mkdir -p template/src/content/articles
+cp -r articles/published/* template/src/content/articles
 
+cd ..
 git clone https://github.com/elias-2001-de/elias-2001-de.github.io website --depth 1
 cd website
 shopt -s extglob # enables extended pattern matching 
@@ -27,6 +32,6 @@ cp -r website/en/projects/func-checker website/de/projects/func-checker
 cp -r website/en/projects/oberon0c     website/de/projects/oberon0c
 touch website/.nojekyll
 
-# cd website
-# git add .
-# git commit -m "[CI JOB]: update website"
+cd website
+git add .
+git commit -m "[CI JOB]: update website"

@@ -1,0 +1,28 @@
+
+[title]
+en = "Things I've made from Compilers to Web Apps."
+de = "Meine Projekte von Compilern zu Webanwendungen."
+
+
+[intro]
+en = [
+    "I have worked on various projects, ranging from ",
+    "compilers to web applications, with a strong interest ",
+    "in low-level programming and the web. Some projects were developed ",
+    "on my own, while others were collaborative efforts. I enjoy exploring the potential ",
+    "of WebAssembly. These projects are interactive and can be tried directly in the browser, with no downloads required.",
+]
+de = [
+    "Ich habe an verschiedenen Projekten gearbeitet, die von Compilern bis hin zu Web apps reichen, ",
+    "wobei ich ein starkes Interesse an Low-Level-Programmierung und dem Web habe. ",
+    "Einige Projekte habe ich selbst entwickelt, an anderen habe ich mitgearbeitet. ",
+    "Es macht mir Spaß, das Potenzial von WebAssembly zu erforschen. ",
+    "Diese Projekte sind interaktiv und können direkt im Browser ausprobiert werden, ohne dass Downloads erforderlich sind.",
+]
+
+[[projects]]
+description = { en = "An app for Mainau garden Island with features like ticket booking and user chat.", de = "Eine App für die Insel Mainau mit Funktionen wie Ticketbuchung und Nutzer-Chat." }
+name = { en = "Studis Work Website", de = "Studis Work Website" }
+link = "https://studis-work.de/"
+logo = "/images/logos/Mainau_logo.svg"
+

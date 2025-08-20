@@ -11,9 +11,10 @@ instagram = ""
 x = ""
 
 [active_sites]
-about = true
+about = false
 speaking = false
 uses = false
 projects = true
 articles = true
-
+tutorials =  false
+work = true

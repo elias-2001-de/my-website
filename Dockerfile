@@ -1,4 +1,4 @@
-FROM python:3.13.2
+FROM python:3.13
 
 RUN pip install toml
 
@@ -9,4 +9,4 @@ COPY ./convert.py /app/convert.py
 
 RUN python convert.py
 
-CMD [ "ls" "build" ]
+CMD [ "bash" ]

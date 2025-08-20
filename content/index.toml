@@ -1,9 +1,9 @@
 images = [
-    "/images/photos/image-1.jpg",
-    "/images/photos/image-2.jpg",
-    "/images/photos/image-3.jpg",
-    "/images/photos/image-4.jpg",
-    "/images/photos/image-5.jpg",
+    "/images/photos/image-1.webp",
+    "/images/photos/image-2.webp",
+    "/images/photos/image-3.webp",
+    "/images/photos/image-4.webp",
+    "/images/photos/image-5.webp",
 ]
 
 cv_download = "cv.pdf"
@@ -32,7 +32,7 @@ de = [
 [active_field]
 technologies = false
 resume = true
-call_to_action = true
+call_to_action = false
 newsletter = false
 photos = true
 
